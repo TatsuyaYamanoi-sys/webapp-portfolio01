@@ -56,10 +56,10 @@ button:hover {
   border-radius: 8px;
 }
 
-.imcomplete-area {
+.incomplete-area {
   background-color: #c6ffe2;
   width: 400px;
-  height: 200px;
+  height: 260px;
   margin: 8px;
   padding: 8px;
   border-radius: 8px;
@@ -68,7 +68,7 @@ button:hover {
 .complete-area {
   background-color: #ffffe0;
   width: 400px;
-  height: 200px;
+  height: 260px;
   margin: 8px;
   padding: 8px;
   border-radius: 8px;
